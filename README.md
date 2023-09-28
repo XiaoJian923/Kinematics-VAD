@@ -2,7 +2,7 @@
 
 
 ## Human Kinematics-inspired Skeleton-based Video Anomaly Detection
-The manuscript can be obtained from [here]().
+The manuscript can be obtained from [here](https://arxiv.org/abs/2309.15662).
 
 ![plot](./img.png)
 
